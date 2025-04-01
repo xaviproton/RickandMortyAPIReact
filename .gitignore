@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Producción
+dist/
+
+# Archivos de sistema o del IDE
+.DS_Store
+.vscode/
+
+# Variables de entorno
+.env
+.env.local
+
+# Cache de Vite
+.vite/
+
+# Archivos de Vercel (si los hay)
+.vercel/
+node_modules
