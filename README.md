@@ -28,7 +28,7 @@ Busca personajes, consulta información de cada dimensión y abre portales inter
 
 ## 📸 Vista previa
 
-[Texto visible]([https://enlace.com](https://rickand-morty-api-react.vercel.app/))
+[Texto visible]([https://enlace.com](https://rickand-morty-api-react.vercel.app))
 
 ---
 
